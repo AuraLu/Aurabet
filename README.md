@@ -2,7 +2,7 @@
 Created an alphabet(Aurabet) based from the English alphabet.
 
 Hello! This is my first personal project with python and GUIs. 
-I it not the prettiest or most efficient work I have written, but I am proud call it my own.
+It is not the prettiest or most efficient work I have written, but I am proud call it my own.
 
 What my work includes here is custom dictionary (Aurabet) for PracticeSoft.py to call from.
 
